@@ -11,7 +11,7 @@ The rest of this readme explains how to get the tools running on pretty much any
 ### Prerequisites
 
 In order to run python files, you need to download its interpreter, as python wasn't built to compile files into executables! <br /)
-To do this, simple go to <a href=www.google.com> python </a>
+To do this, simple go to <a href=https://www.google.com> python </a>
 
 ### Installing
 
