@@ -20,9 +20,9 @@ To do this, simple go to <a href=https://www.python.org/downloads>the python ins
 
 ## Authors
 
-* **GibiBoi(Me, under a pseudonym #obvs)** - *All work* - [GibiBoi](https://github.com/GibiBoi)
+* **GibiBoi** - *All work* - [GibiBoi](https://github.com/GibiBoi)
 
 ## License
 
 This project is licensed under the GNU General Public License v3.0
- - see the [LICENSE.md](LICENSE) file for details
+ - see the [LICENSE](LICENSE) file for details
