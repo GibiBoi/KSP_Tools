@@ -16,7 +16,7 @@ To do this, simple go to <a href=https://www.python.org/downloads>the python ins
 ## Built With
 
 * [Python](https://www.python.org/) - The programming language I used
-* [PyCharm(Community](https://www.jetbrains.com/pycharm/) - The IDEA I used to develop the tools
+* [PyCharm(Community)](https://www.jetbrains.com/pycharm/) - The IDEA I used to develop the tools
 
 ## Authors
 
@@ -25,4 +25,4 @@ To do this, simple go to <a href=https://www.python.org/downloads>the python ins
 ## License
 
 This project is licensed under the GNU General Public License v3.0
- - see the [LICENSE.md](LICENSE.md) file for details
+ - see the [LICENSE.md](GibiBoi/LICENSE.md) file for details
