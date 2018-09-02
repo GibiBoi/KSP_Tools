@@ -6,7 +6,7 @@ from math import sqrt, fabs
 root = Tk()
 root.geometry("360x300")
 root.configure(background="#3C3F41")
-root.iconbitmap("C:/Users/Lewis/Desktop/A folder to work on/favicon3.ico")
+root.iconbitmap("guifileicon.ico")
 root.title("Equations Of Motion Calculator")
 entryOne = StringVar(root, "u a")
 entryTwo = StringVar(root, "u a s")
