@@ -6,15 +6,12 @@ These are all GUI programs, which means it doesn't just open in a cmd window as 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The rest of this readme explains how to get the tools running on pretty much any computer.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+In order to run python files, you need to download its interpreter, as python wasn't built to compile files into executables! <br /)
+To do this, simple go to <a href=www.google.com> python </a>
 
 ### Installing
 
