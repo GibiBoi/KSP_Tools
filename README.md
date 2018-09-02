@@ -25,4 +25,4 @@ To do this, simple go to <a href=https://www.python.org/downloads>the python ins
 ## License
 
 This project is licensed under the GNU General Public License v3.0
- - see the [LICENSE.md](https://github.com/GibiBoi/KSP_Tools/LICENSE.md) file for details
+ - see the [LICENSE.md](https://github.com/GibiBoi/KSP_Tools/blob/master/LICENSE.md) file for details
