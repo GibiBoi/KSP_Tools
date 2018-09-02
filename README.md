@@ -10,7 +10,7 @@ The rest of this readme explains how to get the tools running on pretty much any
 
 ### Prerequisites/ Instalation
 
-In order to run python files, you need to download its interpreter, as python wasn't built to compile files into executables! <br /)
+In order to run python files, you need to download its interpreter, as python wasn't built to compile files into executables! <br />
 To do this, simple go to <a href=https://www.python.org/downloads>the python install page</a> and grab the newest version of python
 
 ## Running the tests
