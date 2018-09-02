@@ -1,7 +1,7 @@
 # KSP Tools
 
-This repository contains a few python calculators/ tools that I use in Kerbal Space Program (KSP).
-All of these files require that you have python installed, preferably version 3.6
+This repository contains a few python calculators/ tools that I use in Kerbal Space Program (KSP). <br />
+All of these files require that you have python installed, preferably version 3.6 <br />
 These are all GUI programs, which means it doesn't just open in a cmd window as per usual, but in a nice GUI interface.
 
 ## Getting Started
